@@ -1,0 +1,12 @@
+sample,name,day,group,group.function,plate,column,replicate
+InSphero.Baseline.Day0.Replicate1,baseline.day0_1,day0,baseline,baseline.control,plate.1,1;2,1
+InSphero.Baseline.Day0.Replicate2,baseline.day0_2,day0,baseline,baseline.control,plate.1,3;4,2
+InSphero.Baseline.Day0.Replicate3,baseline.day0_3,day0,baseline,baseline.control,plate.1,5;6,3
+InSphero.DE.BSA.DMSO.Day5.Replicate2,DE.BSA.DMSO.day5_2,day5,DE.BSA.DMSO.day5,control.DMSO,plate.2,3;4,2
+InSphero.DE.BSA.DMSO.Day5.Replicate3,DE.BSA.DMSO.day5_3,day5,DE.BSA.DMSO.day5,control.DMSO,plate.2,5;6,3
+InSphero.DE.FFA.LPS.Day5.Replicate1,DE.FFA.LPS.day5_1,day5,DE.FFA.LPS.day5,FFA.LPS,plate.3,7;8,1
+InSphero.DE.FFA.LPS.Day5.Replicate2,DE.FFA.LPS.day5_2,day5,DE.FFA.LPS.day5,FFA.LPS,plate.3,9;10,2
+InSphero.DE.FFA.LPS.Day5.Replicate3,DE.FFA.LPS.day5_3,day5,DE.FFA.LPS.day5,FFA.LPS,plate.3,11;12,3
+InSphero.DE.TUNICAMYCIN.Day5.Replicate1,DE.TMC.day5_1,day5,DE.TMC.day5,TMC,plate.NA,NA;NA,1
+InSphero.DE.TUNICAMYCIN.Day5.Replicate2,DE.TMC.day5_2,day5,DE.TMC.day5,TMC,plate.NA,NA;NA,2
+InSphero.DE.TUNICAMYCIN.Day5.Replicate3,DE.TMC.day5_3,day5,DE.TMC.day5,TMC,plate.NA,NA;NA,3
